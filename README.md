@@ -138,7 +138,8 @@ slice_of_arr = arr[0:6]
 arr_2d = np.array(([5,10,15],[20,25,30],[35,40,45]))
 #Indexing row
 arr_2d[1]
-# Format is arr_2d[row][col] or arr_2d[row,col]
+
+#Format is arr_2d[row][col] or arr_2d[row,col]
 arr_2d[1,0]
 
 #Length of array
