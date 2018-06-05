@@ -1,9 +1,7 @@
 # Python-for-Data-Science-and-Machine-Learning-Jose-Portilla-
 (My Notes):
 #Exercise 1 (Basics about Python):
-Some basics about python
-This notebook will just go through the basic topics in order:
-
+Some basics about python: 
 Data types
   Numbers : Operations ( +, -, *, /, **(power),%,); Variable Assignments : x= 2, z = x+y (cannot start a variable with number or special character)
   
