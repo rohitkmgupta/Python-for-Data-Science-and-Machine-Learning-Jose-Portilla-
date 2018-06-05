@@ -1,6 +1,7 @@
 # Python-for-Data-Science-and-Machine-Learning-Jose-Portilla-
 (My Notes):
 #Exercise 1 (Basics about Python):
+
 Some basics about python: 
 Data types
   Numbers : Operations ( +, -, *, /, **(power),%,); Variable Assignments : x= 2, z = x+y (cannot start a variable with number or special character)
@@ -209,6 +210,6 @@ Everything from parallel programming to web and data-base subroutines and classe
 
 Linear Algebra: 
 from scipy import linalg
-# Compute the determinant of a matrix
+#Compute Determinant of a Matrix:
 linalg.det(A)
 
