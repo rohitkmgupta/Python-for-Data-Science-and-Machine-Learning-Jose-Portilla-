@@ -1,6 +1,6 @@
 # Python-for-Data-Science-and-Machine-Learning-Jose-Portilla-
 (My Notes):
-#Excecise 1 (Basics about Python):
+#Exercise 1 (Basics about Python):
 Some basics about python
 This notebook will just go through the basic topics in order:
 
